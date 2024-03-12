@@ -31,7 +31,7 @@ require_once "../../valida_acesso.php";
                     </div>
                     <div class="text-center">
                         <button type="submit" class="btn btn-primary">Cadastrar</button>
-                         <a href="../../logoff.php" class="btn btn-danger">Sair</a> 
+                         <a href="../../index.php" class="btn btn-danger">Sair</a> 
                     </div>
                     </div>
                 </form>
