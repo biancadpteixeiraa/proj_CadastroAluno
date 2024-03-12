@@ -81,7 +81,7 @@ fclose($arquivo);
 
               <div class="row mt-4 text-center">
                 <div class="col-6 mx-auto">
-                  <a class="btn btn-lg btn-warning btn-block" href="home.php">Voltar</a>
+                  <a class="btn btn-primary btn-block" href="home.php">Voltar</a>
                     </div>
                 </div>
               </div>
